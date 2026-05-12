@@ -1,0 +1,13 @@
+{
+  "name": "Marketplace-YTS",
+  "owner": {
+    "name": "YTS"
+  },
+  "plugins": [
+    {
+      "name": "yts-plugins",
+      "source": "./plugins/yts-plugins",
+      "description": "Prompt Scorer Plugin"
+    }
+  ]
+}
